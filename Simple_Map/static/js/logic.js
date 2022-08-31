@@ -1,6 +1,7 @@
 // Add console.log to check to see if our code is working.
 console.log("working");
 
+
 // Create the amp object with a center and zoom level
 // cf the Leaflet Quickstart Guide: https://leafletjs.com/examples/quick-start/
 
@@ -33,5 +34,7 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
     maxZoom: 18,
     accessToken: API_KEY
 });
+
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
+
