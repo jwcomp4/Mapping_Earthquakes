@@ -23,7 +23,7 @@
 
 - Each layer can be toggled on or off individually:
 
-ADD AN IMAGE HERE
+![Layer Toggles](layer_toggles.png)
 
 ## Summary
 
