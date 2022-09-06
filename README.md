@@ -12,7 +12,7 @@
     2. Satellite
     3. Dark
 
-- The map load with all 3 layers displayed:
+- The map loads with all 3 layers displayed:
     1. Circles that mark the location of each earthquake from the past 7 days.
         - The color and size correspond to the magnitude, as described by the legend.
         - Data sourced from USGS.
