@@ -1,13 +1,13 @@
-# Module 13 Challenge: Mapping Earthquakes
+# Mapping Earthquakes
 
 ## Overview
 
-- This challenge uses Leaflet and Mapbox JavaScript libraries to create an interactive map depicting earthquake data from the past 7 days.
+- This analysis uses Leaflet and Mapbox JavaScript libraries to create an interactive map depicting earthquake data from the past 7 days.
 - Accomplishing this task required using API requests to Mapbox, manipulating styles using the JavaScript Leaflet library, and using D3 to access GeoJSON data.
 
 ## Results
 
-- This challenge results in a dynamic map that toggles between 3 Mapbox styles:
+- This analysis results in a dynamic map that toggles between 3 Mapbox styles:
     1. Streets
     2. Satellite
     3. Dark
@@ -27,7 +27,7 @@
 
 ## Summary
 
-- This challenge brings together API requests, JavaScript, and functional programming while visualizing data in a creative and attractive manner. 
+- This analysis brings together API requests, JavaScript, and functional programming while visualizing data in a creative and attractive manner. 
 
 - Suggestions for improvement on this code:
     - The legend scale could be changed slightly to account for the earthquakes with a magnitude over 4.5.
